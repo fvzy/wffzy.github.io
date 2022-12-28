@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'mhankbarbar', // Your GitHub org/user name. (Required)
+    username: 'wffzy', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -14,15 +14,15 @@ const config = {
     linkedin: '',
     twitter: '',
     facebook: '',
-    instagram: '',
+    instagram: 'https://instagram.com/ditzzsxz_',
     dribbble: '',
     behance: '',
     medium: '',
     dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://mhankbarbar.github.io',
+    website: 'https://ditzzsenpai.wtf',
     phone: '',
-    email: 'mengburbur@gmail.com',
+    email: 'ditzzsenpai@gmail.com',
   },
   resume: {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
@@ -53,7 +53,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'valentine',
+    defaultTheme: 'dracula',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
